@@ -1,7 +1,7 @@
 {
   "name": "paomian2",
   "title": "paomian2 blog",
-  "version": "1.0.0",
+  "version": "1.0",
   "homepage": "https://blog.csdn.net/paomian2",
   "author": "paomian2",
   "devDependencies": {
